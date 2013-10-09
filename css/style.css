@@ -464,9 +464,8 @@
 		}
 
 
-		.icon-twitter-sign:before         { content: "\f081"; }
-		.icon-facebook-sign:before        { content: "\f082"; }
-		.icon-linkedin-sign:before        { content: "\f08c"; }
+		.icon-linkedin:before             { content: "\f0e1"; }
+		.icon-google-plus:before          { content: "\f0d5"; }
 		.icon-twitter:before              { content: "\f099"; padding-left: 2px; }
 		.icon-facebook:before             { content: "\f09a"; padding-left: 6px; }
 		.icon-github:before               { content: "\f09b"; }
